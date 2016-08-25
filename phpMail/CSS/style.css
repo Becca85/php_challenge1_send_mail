@@ -1,0 +1,29 @@
+body {
+	background-color: #E6ECEF;
+}
+h1 {
+	color : #3B6378;
+	text-align: center;
+}
+
+.place {
+	width: 735px;
+	height: 40px;
+}
+
+.envoyer{
+	width: 735px;
+}
+
+.placebtn{
+	float: right;
+	font-size: 25px;
+	margin-top: 10px;
+
+}
+
+.titre {
+	font-size: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
