@@ -6,7 +6,7 @@ $headers = 'From: rebeccamaccio@codeacademie.com' . "\r\n" . // mail de l'expedi
     'Reply-To: rebeccamaccio@codeacademie.com' . "\r\n" . // mail pour répondre
     'X-Mailer: PHP/' . phpversion(); // je cherche encore :slightly_smiling_face:mail($to, $subject, $message, $headers);
 mail($to, $subject, $message,$headers);
-echo "Ce script envoie un mail à $to";
+echo "Votre message a bien été envoyé à $to";
 
 
 
